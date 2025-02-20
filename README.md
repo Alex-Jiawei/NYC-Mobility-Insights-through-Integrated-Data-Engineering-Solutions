@@ -9,7 +9,7 @@ This project analyzes **Citi Bike ridership in NYC**, integrating public dataset
 - Provide actionable recommendations for **bike station rebalancing** and **transit optimization**.
 - Build an **interactive dashboard** for ongoing monitoring.
 
-### 🗂Data Sources
+### Data Sources
 - **Citi Bike Ridership:** ~69M rides (~6GB) [Source](https://citibikenyc.com/system-data)
 - **Weather Sensor Logs:** 10-min intervals, 20+ variables [Source](https://mesonet.agron.iastate.edu/request/download.phtml?network=NY_ASOS)
 - **MTA Subway Hourly Ridership:** ~52M records (~3GB) [Source](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-July-2020/wujg-7c2s/about_data)
@@ -34,5 +34,5 @@ An interactive Tableau dashboard was built for monitoring ridership trends.
 - **Improve model performance** using LSTM or ARIMA for better time-series forecasting.
 - **Deploy live API** to provide real-time demand forecasting.
 
-## 📄 License
+## License
 This project is licensed under the MIT License. See `LICENSE` for details.
